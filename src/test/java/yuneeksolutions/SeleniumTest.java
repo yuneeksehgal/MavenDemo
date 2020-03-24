@@ -26,5 +26,13 @@ public class SeleniumTest {
 		
 		System.out.println("buttonsUI");
 	}
+	
+	@Test
+	public void InputBoxUI()
+	{
+		
+		System.out.println("InputBoxUI");
+	}
+
 
 }
